@@ -1,0 +1,9 @@
+<routes>
+	<vType id="car" accel="1.0" decel="5.0" length="2.0" maxSpeed="100.0" sigma="0.0"/>
+	
+	<route id="route0" color="1,1,0" edges="1to2 out1"/>
+	<route id="route1" color="1,1,0" edges="4to2 out2"/>
+	
+	<vehicle id="0" type="car" route="route0" depart="0" color="1,0,0"/>
+	<vehicle id="1" type="car" route="route1" depart="0" color="0,1,0"/>
+</routes>
