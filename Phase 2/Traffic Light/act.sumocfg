@@ -1,0 +1,8 @@
+<configuration>
+	<input>
+		<net-file value="act.net.xml"/>
+		<route-files value="act.rou.xml"/>
+		<gui-settings-file value="act.settings.xml"/> 
+		<additional-files value="ind.add.xml"/>
+	</input>
+</configuration>

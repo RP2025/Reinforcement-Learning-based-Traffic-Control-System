@@ -1,0 +1,13 @@
+<configuration>
+<input>
+	<node-files value="act.nod.xml"/>
+	<edge-files value="act.edg.xml"/>
+	<connection-files value="act.con.xml"/>
+</input>
+<output>
+	<output-file value="act.net.xml"/>
+</output>
+<report>
+	<verbose value="true"/>
+</report>
+</configuration>
