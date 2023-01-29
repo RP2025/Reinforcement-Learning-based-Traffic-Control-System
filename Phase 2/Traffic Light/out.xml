@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2023-01-27 17:45:54 by Eclipse SUMO GUI Version 1.15.0
+<configuration xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/sumoConfiguration.xsd">
+
+    <input>
+        <net-file value="act.net.xml"/>
+        <route-files value="act.rou.xml"/>
+        <additional-files value="ind.add.xml"/>
+    </input>
+
+    <gui_only>
+        <gui-settings-file value="act.settings.xml"/>
+    </gui_only>
+
+</configuration>
+-->
+
+<detector xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/det_e1_file.xsd">
+    <interval begin="0.00" end="361.00" id="det1" nVehContrib="78" flow="777.84" occupancy="12.32" speed="10.12" harmonicMeanSpeed="8.77" length="5.00" nVehEntered="78"/>
+    <interval begin="0.00" end="361.00" id="det2" nVehContrib="20" flow="199.45" occupancy="7.48" speed="4.87" harmonicMeanSpeed="3.71" length="5.00" nVehEntered="20"/>
+    <interval begin="0.00" end="361.00" id="det3" nVehContrib="57" flow="568.42" occupancy="9.32" speed="9.75" harmonicMeanSpeed="8.47" length="5.00" nVehEntered="57"/>
+    <interval begin="0.00" end="361.00" id="det4" nVehContrib="50" flow="498.61" occupancy="8.06" speed="10.37" harmonicMeanSpeed="8.68" length="5.00" nVehEntered="51"/>
+    <interval begin="0.00" end="361.00" id="det5" nVehContrib="46" flow="458.73" occupancy="7.94" speed="9.19" harmonicMeanSpeed="8.02" length="5.00" nVehEntered="46"/>
+    <interval begin="0.00" end="361.00" id="det6" nVehContrib="50" flow="498.61" occupancy="8.25" speed="10.33" harmonicMeanSpeed="8.39" length="5.00" nVehEntered="50"/>
+    <interval begin="0.00" end="361.00" id="det7" nVehContrib="45" flow="448.75" occupancy="7.71" speed="9.73" harmonicMeanSpeed="8.08" length="5.00" nVehEntered="45"/>
+    <interval begin="0.00" end="361.00" id="det8" nVehContrib="48" flow="478.67" occupancy="7.98" speed="10.24" harmonicMeanSpeed="8.33" length="5.00" nVehEntered="48"/>
+</detector>

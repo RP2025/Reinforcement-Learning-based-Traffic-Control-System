@@ -1,0 +1,10 @@
+<additional>
+	<inductionLoop id="det1" lane="1i_0" pos="-15" period="1000" file="out.xml"/>
+	<inductionLoop id="det2" lane="1i_1" pos="-15" period="1000" file="out.xml"/>
+	<inductionLoop id="det3" lane="2i_0" pos="-15" period="1000" file="out.xml"/>
+	<inductionLoop id="det4" lane="2i_1" pos="-15" period="1000" file="out.xml"/>
+	<inductionLoop id="det5" lane="3i_0" pos="-15" period="1000" file="out.xml"/>
+	<inductionLoop id="det6" lane="3i_1" pos="-15" period="1000" file="out.xml"/>
+	<inductionLoop id="det7" lane="4i_0" pos="-15" period="1000" file="out.xml"/>
+	<inductionLoop id="det8" lane="4i_1" pos="-15" period="1000" file="out.xml"/>
+</additional>
